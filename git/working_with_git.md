@@ -1,4 +1,4 @@
-#Working with Git
+# Working with Git
 
 1. Staging and Committing Changes
 
