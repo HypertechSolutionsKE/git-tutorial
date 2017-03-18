@@ -1,12 +1,12 @@
-#A Brief Introduction to Git
+# A Brief Introduction to Git
 
-##(by Andrew Liu, liu.andrew.x [AT] gmail [DOT] com)
+## (by Andrew Liu, liu.andrew.x [AT] gmail [DOT] com)
 
-###What is Git?
+### What is Git?
 
 Git is an open-source version control system. It was designed and developed by Linus Torvalds (creator of the Linux kernel) and is the most popular version control system to date.
 
-###Why use Git?
+### Why use Git?
 
 There are several reasons to use Git (or version control in general). We will just list a few reasons:
 
@@ -21,18 +21,18 @@ Git helps out a lot with respect to incremental code development and documentati
 ..8. You can keep track of contributions to the code when working as part of a team.
 ..9. Companies use version control, so you will need to learn version control eventually.
 
-###Getting Started
+### Getting Started
 
-####Downloading Git
+#### Downloading Git
 Grace already has Git installed. If you want Git on your local machine, you can always Google how to do so. ☺
 
-####Configuring Git
+#### Configuring Git
 The first thing you'll want to do is to configure your name and email on Git. Git needs your identity to document the contributor whenever there is a change to the code. The two commands are as follows:
 
 ..1. $ git config --global user.name "Billy Programmer"
 ..2. $ git config --global user.email "bprogrammer123@terpmail.umd.edu"
 
-####Creating or Cloning a Git Repository
+#### Creating or Cloning a Git Repository
 To turn a project into a Git repository, go inside the project folder and type the command
 
 $ git init
